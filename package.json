@@ -1,0 +1,9 @@
+{
+	"name": "Ascended Arena",
+	"version": "0.0.1",
+	"description": "Retroactively adds ascended gear scaling to pre-DLC arena cups.",
+	"homepage": "https://github.com/EL20202/cc-uncapped-stats",
+	"module": true,
+	"ccmodDependencies": {
+	}
+}
