@@ -1,0 +1,16 @@
+{
+    "id": "cc-arena-ascension",
+	"version": "1.0.0",
+
+	"title": "Arena Ascension",
+	"description": "Adds ascended gear scaling to arena cups added before \\c[3]CrossCode: A New Home\\c[0].",
+	
+    "homepage": "https://github.com/EL20202/cc-arena-ascension",
+    "icons": {
+        "24": "icon24.png"
+    },
+
+	"dependencies": {
+        "ccloader": "^2.20.0"
+	}
+}

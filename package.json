@@ -1,9 +1,9 @@
 {
-	"name": "Ascended Arena",
-	"version": "0.0.1",
-	"description": "Retroactively adds ascended gear scaling to pre-DLC arena cups.",
+	"name": "cc-ascended-arena",
+	"version": "1.0.0",
+	"description": "Adds ascended gear scaling to arena cups added before \\c[3]CrossCode: A New Home\\c[0].",
 	"homepage": "https://github.com/EL20202/cc-uncapped-stats",
-	"module": true,
 	"ccmodDependencies": {
+		"ccloader": "^2.20.0"
 	}
 }
